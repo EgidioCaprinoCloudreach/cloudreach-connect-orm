@@ -16,9 +16,9 @@ Add the following to your pom.xml file.
 
 <dependencies>
   <dependency>
-      <groupId>com.cloudreach</groupId>
-      <artifactId>logentries-cloudreach-connect</artifactId>
-      <version>1.0</version>
+      <groupId>com.cloudreach.connect</groupId>
+      <artifactId>orm</artifactId>
+      <version>0.1</version>
   </dependency>
 </dependencies>
 ```
