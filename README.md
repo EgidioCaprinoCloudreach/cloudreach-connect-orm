@@ -9,7 +9,7 @@ Add the following to your pom.xml file.
 <repositories>
   <repository>
       <id>cloudreach-connect</id>
-      <url>https://raw.githubusercontent.com/EgidioCaprinoCloudreach/logentries-cloudreach-connect/mvn-repo/
+      <url>https://raw.githubusercontent.com/EgidioCaprinoCloudreach/cloudreach-connect-orm/mvn-repo/
       </url>
   </repository>
 </repositories>
